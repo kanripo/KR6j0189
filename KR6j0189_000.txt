@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 成就妙法蓮華經王瑜伽觀智儀軌
+#+DATE: 2015-08-30 20:27:35.805456
+#+PROPERTY: JUAN 0
